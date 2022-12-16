@@ -1,0 +1,29 @@
+.advert {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: center;
+  margin-bottom: 160px;
+}
+
+.heading2 {
+  font-size: 30px;
+  color: #0B3558;
+}
+
+.heading2 span {
+  color: dodgerblue;
+}
+
+.companies {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 60px 250px 0;
+}
+
+.advert2>div {
+  font-size: 45px;
+  color: #0B3558;
+  text-align: center;
+}
